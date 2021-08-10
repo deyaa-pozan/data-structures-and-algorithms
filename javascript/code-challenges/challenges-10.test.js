@@ -20,7 +20,7 @@ Write a function named findMax that takes in a matrix of positive numbers and re
 
 For example:
 [
-  [1, 3, 4, 5],
+  [1,2, 3, 4, 5],
   [4, 5, 6],
   [23, 5, 5]
 ]
